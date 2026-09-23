@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Hardik Tiwari
+**A passionate web developer || python backend || frontend devloper**
 
+Email Me 👉 ✉️ **tiwarivibhu47@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:**full stack development
+- 🌱 **I’m currently learning:** Python
+- 👯 **I’m looking to collaborate on:** school Managment System
+- 🤔 **I’m looking for help with:** full stack devloper
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:**tiwarivibhu47@gmail.com 
+- 😄 **Pronouns:** Hardik
+- ⚡ **Fun fact:** I Love Coding and new Teach
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vibhu-tiwari-585259439) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwarivibhu47@gmail.com) 
 
